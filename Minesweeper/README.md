@@ -14,7 +14,6 @@ The final board will have the following symbols:
 ```
 The output will be generated upon running the program.
 ## Compile/Run 
-```
 ### Linux:
 ```
 g++ -std=c++11 minesweeper.cpp -o ms
