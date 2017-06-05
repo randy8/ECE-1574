@@ -1,0 +1,14 @@
+First: Somerset
+Last: Maugham
+Attendances: 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 
+Attendance Grade: 1.75
+Labs: 82 83 86 87 88 91 92 92 94 95 
+Lab Grade: 14.127
+Projects: 85 88 92 95 98 
+Project Grade: 39.3133
+Midterm: 96
+Midterm Grade: 18.4615
+Final: 95
+Final Grade: 15.9664
+Overall Average: 89.6182
+Letter Grade: B+

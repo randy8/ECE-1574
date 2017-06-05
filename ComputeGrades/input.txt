@@ -1,0 +1,34 @@
+First: Somerset
+Last: Maugham
+Lab: 94 91
+Midterm: 96 104
+Final: 95 119
+Project: 85 94
+Project: 88 91
+Lab: 88 99
+Lab: 82 94
+Attendance: 0 1
+Project: 98 92
+Project: 92 92
+Lab: 86 91
+Attendance: 1 2
+Attendance: 1 1
+Attendance: 0 1
+Project: 95 97
+Lab: 83 99
+Lab: 87 92
+Attendance: 0 2
+Lab: 91 94
+Lab: 95 98
+Attendance: 0 1
+Lab: 92 95
+Attendance: 1 1
+Attendance: 1 2
+Lab: 92 92
+Attendance: 1 1
+Attendance: 1 1
+Attendance: 0 1
+Attendance: 0 1
+Attendance: 0 1
+Attendance: 0 2
+Attendance: 1 2
